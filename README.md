@@ -4,7 +4,7 @@
 <br>
 Visualisation of football teams with the highest revenues from the years 2002-2019
 <br>
-The aim of this was to display the clubs generating the highest revenue every year 2002
+The aim of this was to display the clubs generating the highest revenue each year, with additional columns for further analysis.
 
 ___
 **Project Status**
