@@ -1,307 +1,99 @@
 Club,Income(€ million),Country,Year,ChampionsLeaguePosition,ClubHexCode
-Juventus,173.5,Italy,2002,,#000000
-Chelsea,118.4,England,2002,,#34694
-Roma,123.8,Italy,2002,,#8E1F2F
-Internazionale,112.8,Italy,2002,,#A29161
-Liverpool,137.6,England,2002,,#D00027
-Manchester United,217.2,England,2002,3,#DA020E
-Milan,164.6,Italy,2002,,#FB090B
-Real Madrid,138.2,Spain,2002,1,#FEBE10
-Leverkusen,,England,2002,2,#E32221
-Bayern Munich,173.2,Germany,2002,,#DC052D
-Barcelona,,Spain,2002,3,#EDBB00
-Lazio,125.4,Italy,2002,,#84d8f9
-Juventus,177.9,Italy,2003,2,#000000
-Chelsea,143.4,England,2003,,#34694
-Roma,136.8,Italy,2003,,#8E1F2F
-Internazionale,,Italy,2003,3,#A29161
-Liverpool,154.6,England,2003,,#D00027
-Manchester United,229.5,England,2003,,#DA020E
-Barcelona,139.8,Spain,2003,,#EDBB00
-Arsenal,141.4,England,2003,,#EF0107
-Milan,159.1,Italy,2003,1,#FB090B
-Real Madrid,152.2,Spain,2003,3,#FEBE10
-Bayern Munich,176.8,Germany,2003,,#DC052D
-Juventus,218.8,Italy,2004,,#000000
-Newcastle United,139.3,England,2004,,#241F20
-Chelsea,134.1,England,2004,3,#34694
-Deportivo,,Spain,2004,3,#57175E
-Internazionale,162.5,Italy,2004,,#A29161
-Liverpool,149.3,England,2004,,#D00027
-Manchester United,251.2,England,2004,,#DA020E
-Arsenal,150.1,England,2004,,#EF0107
-Milan,200.4,Italy,2004,,#FB090B
-Real Madrid,193.7,Spain,2004,,#FEBE10
-Monaco,,France,2004,2,#d91920
-Bayern Munich,163.9,Germany,2004,,#DC052D
-Porto,,Portugal,2004,1,#0072B6
-Juventus,215.3,Italy,2005,,#000000
-Chelsea,217.5,England,2005,3,#34694
-Internazionale,167.1,Italy,2005,,#A29161
-Liverpool,140.2,England,2005,1,#D00027
-Manchester United,259.4,England,2005,,#DA020E
-Barcelona,169.9,Spain,2005,,#EDBB00
-Arsenal,174.1,England,2005,,#EF0107
-Milan,222.1,Italy,2005,2,#FB090B
-Real Madrid,236.2,Spain,2005,,#FEBE10
-Bayern Munich,166.4,Germany,2005,,#DC052D
-PSV,,Netherlands,2005,3,#f00000
-Juventus,229.4,Italy,2006,,#000000
-Tottenham Hotspur,104.5,England,2006,,#001C58
-Newcastle United,128.9,England,2006,,#241F20
-Everton,88.8,England,2006,,#274488
-Chelsea,220.8,England,2006,,#34694
-Roma,131.8,Italy,2006,,#8E1F2F
-Manchester City,90.1,England,2006,,#98C5E9
-Internazionale,177.2,Italy,2006,,#A29161
-Liverpool,181.2,England,2006,,#D00027
-Manchester United,246.4,England,2006,,#DA020E
-Barcelona,207.9,Spain,2006,1,#EDBB00
-Arsenal,171.3,England,2006,2,#EF0107
-Milan,234,Italy,2006,3,#FB090B
-Real Madrid,275.7,Spain,2006,,#FEBE10
-Valencia,84.6,Spain,2006,,#FFDF1C
-Lyon,92.9,France,2006,,#3f48cc
-Bayern Munich,189.5,Germany,2006,,#DC052D
-Schalke 04,97.4,Germany,2006,,#004D9D
-Lazio,83.1,Italy,2006,,#84d8f9
-Celtic,92.7,Scotland,2006,,#17331F
-Villarreal,,Spain,2006,3,#ffe667
-Juventus,251.2,Italy,2007,,#000000
-Tottenham Hotspur,107.2,England,2007,,#001C58
-Newcastle United,124.3,England,2007,,#241F20
-Chelsea,221,England,2007,3,#34694
-West Ham United,86.9,England,2007,,#60223B
-Roma,127,Italy,2007,,#8E1F2F
-Manchester City,89.4,England,2007,,#98C5E9
-Internazionale,206.6,Italy,2007,,#A29161
-Liverpool,176,England,2007,2,#D00027
-Manchester United,242.6,England,2007,3,#DA020E
-Barcelona,259.1,Spain,2007,,#EDBB00
-Arsenal,177.4,England,2007,,#EF0107
-Milan,238.7,Italy,2007,1,#FB090B
-Real Madrid,292.2,Spain,2007,,#FEBE10
-Lyon,127.7,France,2007,,#3f48cc
-Bayern Munich,204.7,Germany,2007,,#DC052D
-Hamburger SV,101.8,Germany,2007,,#0A3F86
-Schalke 04,122.9,Germany,2007,,#004D9D
-Benfica,85.1,Portugal,2007,,#FFD400
-Rangers,88.5,Scotland,2007,,#1b458f
-Juventus,145.2,Italy,2008,,#000000
-Tottenham Hotspur,153.1,England,2008,,#001C58
-Newcastle United,129.4,England,2008,,#241F20
-Chelsea,283,England,2008,2,#34694
-Roma,157.6,Italy,2008,,#8E1F2F
-Internazionale,195,Italy,2008,,#A29161
-Liverpool,198.9,England,2008,3,#D00027
-Manchester United,315.2,England,2008,1,#DA020E
-Barcelona,290.1,Spain,2008,3,#EDBB00
-Arsenal,263.9,England,2008,,#EF0107
-Milan,227.2,Italy,2008,,#FB090B
-Real Madrid,351,Spain,2008,,#FEBE10
-Valencia,107.6,Spain,2008,,#FFDF1C
-Lyon,140.6,France,2008,,#3f48cc
-Marseille,99,France,2008,,#0c98d6
-Bayern Munich,223.3,Germany,2008,,#DC052D
-Hamburger SV,120.4,Germany,2008,,#0A3F86
-Schalke 04,114.3,Germany,2008,,#004D9D
-Werder Bremen,97.3,Germany,2008,,#1D9053
-Celtic,111.8,Scotland,2008,,#17331F
-Juventus,167.5,Italy,2009,,#000000
-Tottenham Hotspur,145,England,2009,,#001C58
-Newcastle United,125.6,England,2009,,#241F20
-Chelsea,268.9,England,2009,3,#34694
-Roma,175.4,Italy,2009,,#8E1F2F
-Manchester City,104,England,2009,,#98C5E9
-Internazionale,172.9,Italy,2009,,#A29161
-Liverpool,210.9,England,2009,,#D00027
-Manchester United,324.8,England,2009,2,#DA020E
-Barcelona,308.8,Spain,2009,1,#EDBB00
-Arsenal,264,England,2009,3,#EF0107
-Milan,209.5,Italy,2009,,#FB090B
-Real Madrid,365.8,Spain,2009,,#FEBE10
-Lyon,155.7,France,2009,,#3f48cc
-Marseille,126.8,France,2009,,#0c98d6
-Bayern Munich,295.3,Germany,2009,,#DC052D
-Hamburger SV,127.9,Germany,2009,,#0A3F86
-Schalke 04,148.4,Germany,2009,,#004D9D
-VfB Stuttgart,111.5,Germany,2009,,#e32219
-Fenerbahçe,111.3,Turkey,2009,,#ffed00
-Juventus,203.2,Italy,2010,,#000000
-Tottenham Hotspur,132.7,England,2010,,#001C58
-Newcastle United,101,England,2010,,#241F20
-Chelsea,242.3,England,2010,,#34694
-Roma,146.4,Italy,2010,,#8E1F2F
-Manchester City,101.2,England,2010,,#98C5E9
-Internazionale,196.5,Italy,2010,1,#A29161
-Liverpool,237,England,2010,,#D00027
-Manchester United,327,England,2010,,#DA020E
-Barcelona,365.9,Spain,2010,3,#EDBB00
-Arsenal,263,England,2010,,#EF0107
-Milan,196.5,Italy,2010,,#FB090B
-Real Madrid,401.4,Spain,2010,,#FEBE10
-Lyon,139.6,France,2010,3,#3f48cc
-Marseille,133.2,France,2010,,#0c98d6
-Bayern Munich,289.5,Germany,2010,2,#DC052D
-Borussia Dortmund,103.5,Germany,2010,,#FDE100
-Hamburger SV,146.7,Germany,2010,,#0A3F86
-Schalke 04,124.5,Germany,2010,,#004D9D
-Werder Bremen,114.7,Germany,2010,,#1D9053
-Juventus,205,Italy,2011,,#000000
-Tottenham Hotspur,146.3,England,2011,,#001C58
-Napoli,95.1,Italy,2011,,#12A0D7
-Atlético Madrid,124.5,Spain,2011,,#272E61
-Everton,96.6,England,2011,,#274488
-Chelsea,255.9,England,2011,,#34694
-West Ham United,87.6,England,2011,,#60223B
-Roma,122.7,Italy,2011,,#8E1F2F
-Manchester City,152.8,England,2011,,#98C5E9
-Internazionale,224.8,Italy,2011,,#A29161
-Liverpool,225.3,England,2011,,#D00027
-Manchester United,349.8,England,2011,2,#DA020E
-Fiorentina,106.4,Italy,2011,,#EC1C23
-Barcelona,398.1,Spain,2011,1,#EDBB00
-Arsenal,274.1,England,2011,,#EF0107
-Milan,235.8,Italy,2011,,#FB090B
-Real Madrid,438.6,Spain,2011,3,#FEBE10
-Valencia,99.3,Spain,2011,,#FFDF1C
-Aston Villa,109.4,England,2011,,#95BFE5
-Fulham,94.2,England,2011,,#FFFFFF
-Bordeaux,102.8,France,2011,,#5F021F
-Lyon,146.1,France,2011,,#3f48cc
-Marseille,141.1,France,2011,,#0c98d6
-Bayern Munich,323,Germany,2011,,#DC052D
-Borussia Dortmund,105.2,Germany,2011,,#FDE100
-Hamburger SV,146.2,Germany,2011,,#0A3F86
-Schalke 04,139.8,Germany,2011,3,#004D9D
-VfB Stuttgart,114.8,Germany,2011,,#e32219
-Werder Bremen,96.5,Germany,2011,,#1D9053
-Benfica,98.2,Portugal,2011,,#FFD400
-Sevilla,99.6,Spain,2011,,#cb282b
-Juventus,153.9,Italy,2012,,#000000
-Tottenham Hotspur,181,England,2012,,#001C58
-Napoli,114.9,Italy,2012,,#12A0D7
-Newcastle United,98,England,2012,,#241F20
-Atlético Madrid,99.9,Spain,2012,,#272E61
-Everton,90.8,England,2012,,#274488
-Chelsea,249.8,England,2012,1,#34694
-West Ham United,89.1,England,2012,,#60223B
-Roma,143.5,Italy,2012,,#8E1F2F
-Manchester City,169.6,England,2012,,#98C5E9
-Internazionale,211.4,Italy,2012,,#A29161
-Liverpool,203.3,England,2012,,#D00027
-Manchester United,367,England,2012,,#DA020E
-Barcelona,450.7,Spain,2012,3,#EDBB00
-Arsenal,251.1,England,2012,,#EF0107
-Milan,235.1,Italy,2012,,#FB090B
-Real Madrid,479.5,Spain,2012,3,#FEBE10
-Valencia,116.8,Spain,2012,,#FFDF1C
-Aston Villa,99.3,England,2012,,#95BFE5
-Sunderland,87.9,England,2012,,#EB172B
-Lyon,132.8,France,2012,,#3f48cc
-Marseille,150.4,France,2012,,#0c98d6
-Bayern Munich,321.4,Germany,2012,2,#DC052D
-Borussia Dortmund,138.5,Germany,2012,,#FDE100
-Hamburger SV,128.8,Germany,2012,,#0A3F86
-Schalke 04,202.4,Germany,2012,,#004D9D
-VfB Stuttgart,95.5,Germany,2012,,#e32219
-Werder Bremen,99.7,Germany,2012,,#1D9053
-Ajax,97.1,Netherlands,2012,,#FFFFFF
-Benfica,102.5,Portugal,2012,,#FFD400
-Juventus,195.4,Italy,2013,,#000000
-Tottenham Hotspur,178.2,England,2013,,#001C58
-Napoli,148.4,Italy,2013,,#12A0D7
-Newcastle United,115.3,England,2013,,#241F20
-Atlético Madrid,107.9,Spain,2013,,#272E61
-Everton,99.5,England,2013,,#274488
-Chelsea,322.6,England,2013,,#34694
-Roma,115.9,Italy,2013,,#8E1F2F
-Manchester City,285.6,England,2013,,#98C5E9
-Internazionale,200.6,Italy,2013,,#A29161
-Liverpool,233.2,England,2013,,#D00027
-Manchester United,395.9,England,2013,,#DA020E
-Barcelona,483,Spain,2013,3,#EDBB00
-Arsenal,290.3,England,2013,,#EF0107
-Milan,256.9,Italy,2013,,#FB090B
-Real Madrid,512.6,Spain,2013,3,#FEBE10
-Valencia,111.1,Spain,2013,,#FFDF1C
-Corinthians,94.1,Brazil,2013,,#000000
-Aston Villa,98.6,England,2013,,#95BFE5
-Fulham,98,England,2013,,#FFFFFF
-Sunderland,96.4,England,2013,,#EB172B
-Lyon,131.9,France,2013,,#3f48cc
-Marseille,135.7,France,2013,,#0c98d6
-Paris Saint?Germain,220.5,France,2013,,#004170
-Bayern Munich,368.4,Germany,2013,1,#DC052D
-Borussia Dortmund,196.7,Germany,2013,2,#FDE100
-Hamburger SV,121.1,Germany,2013,,#0A3F86
-Schalke 04,174.5,Germany,2013,,#004D9D
-VfB Stuttgart,103.2,Germany,2013,,#e32219
-Ajax,104.1,Netherlands,2013,,#FFFFFF
-Benfica,111.1,Portugal,2013,,#FFD400
-Galatasaray,129.7,Turkey,2013,,#a90432
-Juventus,272.4,Italy,2014,,#000000
-Tottenham Hotspur,172,England,2014,,#001C58
-Napoli,116.4,Italy,2014,,#12A0D7
-Newcastle United,111.9,England,2014,,#241F20
-Atlético Madrid,120,Spain,2014,1,#272E61
-Chelsea,303.4,England,2014,3,#34694
-West Ham United,104.8,England,2014,,#60223B
-Roma,124.4,Italy,2014,,#8E1F2F
-Manchester City,316.2,England,2014,,#98C5E9
-Internazionale,168.8,Italy,2014,,#A29161
-Liverpool,240.6,England,2014,,#D00027
-Manchester United,423.8,England,2014,,#DA020E
-Barcelona,482.6,Spain,2014,,#EDBB00
-Arsenal,284.3,England,2014,,#EF0107
-Milan,263.5,Italy,2014,,#FB090B
-Real Madrid,518.9,Spain,2014,1,#FEBE10
-Valencia,116,Spain,2014,,#FFDF1C
-Corinthians,113.3,Brazil,2014,,#000000
-Marseille,104.3,France,2014,,#0c98d6
-Paris Saint?Germain,398.8,France,2014,,#004170
-Bayern Munich,431.2,Germany,2014,3,#DC052D
-Borussia Dortmund,256.2,Germany,2014,,#FDE100
-Hamburger SV,135.4,Germany,2014,,#0A3F86
-Schalke 04,198.2,Germany,2014,,#004D9D
-VfB Stuttgart,116.5,Germany,2014,,#e32219
-Lazio,106.2,Italy,2014,,#84d8f9
-Ajax,107.6,Netherlands,2014,,#FFFFFF
-Benfica,109.2,Portugal,2014,,#FFD400
-Fenerbahçe,126.4,Turkey,2014,,#ffed00
-Galatasaray,157,Turkey,2014,,#a90432
-Juventus,279.4,Italy,2015,2,#000000
-Tottenham Hotspur,215.8,England,2015,,#001C58
-Napoli,164.8,Italy,2015,,#12A0D7
-Newcastle United,155.1,England,2015,,#241F20
-Atlético Madrid,169.9,Spain,2015,,#272E61
-Everton,144.1,England,2015,,#274488
-Chelsea,387.9,England,2015,,#34694
-West Ham United,137.4,England,2015,,#60223B
-Roma,127.4,Italy,2015,,#8E1F2F
-Manchester City,414.4,England,2015,,#98C5E9
-Internazionale,164,Italy,2015,,#A29161
-Liverpool,305.9,England,2015,,#D00027
-Manchester United,518,England,2015,,#DA020E
-Stoke City,117.6,England,2015,,#E03A3E
-Southampton,126.9,England,2015,,#ED1A3B
-Barcelona,484.6,Spain,2015,1,#EDBB00
-Arsenal,359.3,England,2015,,#EF0107
-Milan,249.7,Italy,2015,,#FB090B
-Real Madrid,549.5,Spain,2015,3,#FEBE10
-Swansea City,118,Wales,2015,,#FFFFFF
-Aston Villa,133,England,2015,,#95BFE5
-Sunderland,124.8,England,2015,,#EB172B
-Marseille,130.5,France,2015,,#0c98d6
-Paris Saint?Germain,474.2,France,2015,,#004170
-Bayern Munich,487.5,Germany,2015,3,#DC052D
-Borussia Dortmund,261.5,Germany,2015,,#FDE100
-Hamburger SV,120.3,Germany,2015,,#0A3F86
-Schalke 04,213.9,Germany,2015,,#004D9D
-Benfica,126,Portugal,2015,,#FFD400
-Galatasaray,161.9,Turkey,2015,,#a90432
+Besiktas J.K,165.7,Turkey,2019,,#000000
+Juventus,394.9,Italy,2019,,#000000
+Tottenham Hotspur,428.3,England,2019,,#001C58
+PSG,541.7,France,2019,,#004170
+Schalke 04,243.8,Germany,2019,,#004D9D
+Leicester City,179.4,England,2019,,#0053A0
+Brighton,157.4,England,2019,,#0055A9
+Zenit Saint Petersburg,167.8,Russia,2019,,#0097db
+Napoli,182.8,Italy,2019,,#12A0D7
+Crystal Palace,169,England,2019,,#1B458F
+Newcastle United,201.5,England,2019,,#241F20
+Atlético Madrid,304.4,Spain,2019,,#272E61
+Everton,212.9,England,2019,,#274488
+Chelsea,505.7,England,2019,,#34694
+Lyon,164.2,France,2019,,#3f48cc
+West Ham United,197.9,England,2019,,#60223B
+Roma,250,Italy,2019,,#8E1F2F
+Manchester City,568.4,England,2019,,#98C5E9
+Internazionale,280.8,Italy,2019,,#A29161
+Sevilla,165.2,Spain,2019,,#cb282b
+Liverpool,513.7,England,2019,,#D00027
+Manchester United,666,England,2019,,#DA020E
+Bayern Munich,629.2,Germany,2019,,#DC052D
+Southampton,172,England,2019,,#ED1A3B
+Barcelona,690.4,Spain,2019,,#EDBB00
+Arsenal,439.2,England,2019,,#EF0107
+Milan,207.7,Italy,2019,,#FB090B
+Borussia Dortmund,317.2,Germany,2019,,#FDE100
+Real Madrid,750.9,Spain,2019,,#FEBE10
+Benfica,150.7,Portugal,2019,,#FFD400
+Borussia Mönchengladbach,169.3,Germany,2018,,#000000
+Juventus,405.7,Italy,2018,,#000000
+Tottenham Hotspur,355.6,England,2018,,#001C58
+PSG,486.2,France,2018,,#004170
+Schalke 04,230.2,Germany,2018,,#004D9D
+Leicester City,271.1,England,2018,,#0053A0
+Zenit Saint Petersburg,180.4,Russia,2018,,#0097db
+Napoli,200.7,Italy,2018,,#12A0D7
+Crystal Palace,164,England,2018,,#1B458F
+Atlético Madrid,272.5,Spain,2018,,#272E61
+Everton,199.2,England,2018,,#274488
+Chelsea,428,England,2018,,#34694
+Lyon,198.3,France,2018,,#3f48cc
+West Ham United,213.3,England,2018,,#60223B
+Roma,171.8,Italy,2018,3,#8E1F2F
+West Bromwich Albion,160.5,England,2018,,#91453
+Manchester City,527.7,England,2018,,#98C5E9
+Internazionale,262.1,Italy,2018,,#A29161
+Liverpool,424.2,England,2018,2,#D00027
+Manchester United,676.3,England,2018,,#DA020E
+Bayern Munich,587.8,Germany,2018,3,#DC052D
+Stoke City,158.3,England,2018,,#E03A3E
+Bournemouth,159.2,England,2018,,#E62333
+Southampton,212.1,England,2018,,#ED1A3B
+Barcelona,648.3,Spain,2018,,#EDBB00
+Arsenal,487.6,England,2018,,#EF0107
+Milan,191.7,Italy,2018,,#FB090B
+Borussia Dortmund,332.6,Germany,2018,,#FDE100
+Real Madrid,674.6,Spain,2018,1,#FEBE10
+Benfica,157.6,Portugal,2018,,#FFD400
+Borussia Mönchengladbach,149.3,Germany,2017,,#000000
+Juventus,341.1,Italy,2017,2,#000000
+Tottenham Hotspur,279.7,England,2017,,#001C58
+PSG,520.9,France,2017,,#004170
+Schalke 04,224.5,Germany,2017,,#004D9D
+Leicester City,172.1,England,2017,,#0053A0
+Zenit Saint Petersburg,196.5,Russia,2017,,#0097db
+Napoli,142.7,Italy,2017,,#12A0D7
+Newcastle United,168.2,England,2017,,#241F20
+Atlético Madrid,228.6,Spain,2017,3,#272E61
+Everton,162.5,England,2017,,#274488
+Chelsea,447.4,England,2017,,#34694
+Lyon,160,France,2017,,#3f48cc
+West Ham United,192.3,England,2017,,#60223B
+Roma,218.2,Italy,2017,,#8E1F2F
+Manchester City,524.9,England,2017,,#98C5E9
+Internazionale,179.2,Italy,2017,,#A29161
+Galatasaray,155.9,Turkey,2017,,#a90432
+Liverpool,403.8,England,2017,,#D00027
+Monaco,,France,2017,3,#d91920
+Manchester United,689,England,2017,,#DA020E
+Bayern Munich,592,Germany,2017,,#DC052D
+Sunderland,144.4,England,2017,,#EB172B
+Southampton,163.3,England,2017,,#ED1A3B
+Barcelona,620.2,Spain,2017,,#EDBB00
+Arsenal,468.5,England,2017,,#EF0107
+Milan,214.7,Italy,2017,,#FB090B
+Borussia Dortmund,283.9,Germany,2017,,#FDE100
+Real Madrid,620.1,Spain,2017,1,#FEBE10
+Benfica,152.1,Portugal,2017,,#FFD400
+Fenerbahçe,157.7,Turkey,2017,,#ffed00
 Juventus,323.9,Italy,2016,,#000000
 Tottenham Hotspur,257.5,England,2016,,#001C58
+PSG,480.8,France,2016,,#004170
+Schalke 04,219.7,Germany,2016,,#004D9D
 Leicester City,137.2,England,2016,,#0053A0
 Napoli,125.5,Italy,2016,,#12A0D7
 Crystal Palace,130.8,England,2016,,#1B458F
@@ -312,112 +104,504 @@ Chelsea,420,England,2016,,#34694
 West Ham United,160.9,England,2016,,#60223B
 Roma,180.4,Italy,2016,,#8E1F2F
 West Bromwich Albion,126.6,England,2016,,#91453
+Aston Villa,148.8,England,2016,,#95BFE5
 Manchester City,463.5,England,2016,3,#98C5E9
 Internazionale,164.8,Italy,2016,,#A29161
+Galatasaray,159.1,Turkey,2016,,#a90432
 Liverpool,391.8,England,2016,,#D00027
 Manchester United,519.5,England,2016,,#DA020E
+Bayern Munich,474,Germany,2016,3,#DC052D
 Stoke City,130.9,England,2016,,#E03A3E
+Sunderland,132.9,England,2016,,#EB172B
 Southampton,149.5,England,2016,,#ED1A3B
 Barcelona,560.8,Spain,2016,,#EDBB00
 Arsenal,435.5,England,2016,,#EF0107
 Milan,199.1,Italy,2016,,#FB090B
+Borussia Dortmund,280.6,Germany,2016,,#FDE100
 Real Madrid,577,Spain,2016,1,#FEBE10
 Swansea City,132.8,Wales,2016,,#FFFFFF
-Aston Villa,148.8,England,2016,,#95BFE5
-Sunderland,132.9,England,2016,,#EB172B
-Paris Saint?Germain,480.8,France,2016,,#004170
-Bayern Munich,474,Germany,2016,3,#DC052D
-Borussia Dortmund,280.6,Germany,2016,,#FDE100
-Schalke 04,219.7,Germany,2016,,#004D9D
-Galatasaray,159.1,Turkey,2016,,#a90432
-Juventus,341.1,Italy,2017,2,#000000
-Tottenham Hotspur,279.7,England,2017,,#001C58
-Leicester City,172.1,England,2017,,#0053A0
-Napoli,142.7,Italy,2017,,#12A0D7
-Newcastle United,168.2,England,2017,,#241F20
-Atlético Madrid,228.6,Spain,2017,3,#272E61
-Everton,162.5,England,2017,,#274488
-Chelsea,447.4,England,2017,,#34694
-West Ham United,192.3,England,2017,,#60223B
-Roma,218.2,Italy,2017,,#8E1F2F
-Manchester City,524.9,England,2017,,#98C5E9
-Internazionale,179.2,Italy,2017,,#A29161
-Liverpool,403.8,England,2017,,#D00027
-Manchester United,689,England,2017,,#DA020E
-Southampton,163.3,England,2017,,#ED1A3B
-Barcelona,620.2,Spain,2017,,#EDBB00
-Arsenal,468.5,England,2017,,#EF0107
-Milan,214.7,Italy,2017,,#FB090B
-Real Madrid,620.1,Spain,2017,1,#FEBE10
-Sunderland,144.4,England,2017,,#EB172B
-Lyon,160,France,2017,,#3f48cc
-Monaco,,France,2017,3,#d91920
-Paris Saint?Germain,520.9,France,2017,,#004170
-Bayern Munich,592,Germany,2017,,#DC052D
-Borussia Dortmund,283.9,Germany,2017,,#FDE100
-Borussia Mönchengladbach,149.3,Germany,2017,,#000000
-Schalke 04,224.5,Germany,2017,,#004D9D
-Benfica,152.1,Portugal,2017,,#FFD400
-Zenit Saint Petersburg,196.5,Russia,2017,,#0097db
-Fenerbahçe,157.7,Turkey,2017,,#ffed00
-Galatasaray,155.9,Turkey,2017,,#a90432
-Juventus,405.7,Italy,2018,,#000000
-Tottenham Hotspur,355.6,England,2018,,#001C58
-Leicester City,271.1,England,2018,,#0053A0
-Napoli,200.7,Italy,2018,,#12A0D7
-Crystal Palace,164,England,2018,,#1B458F
-Atlético Madrid,272.5,Spain,2018,,#272E61
-Everton,199.2,England,2018,,#274488
-Chelsea,428,England,2018,,#34694
-West Ham United,213.3,England,2018,,#60223B
-Roma,171.8,Italy,2018,3,#8E1F2F
-West Bromwich Albion,160.5,England,2018,,#91453
-Manchester City,527.7,England,2018,,#98C5E9
-Internazionale,262.1,Italy,2018,,#A29161
-Liverpool,424.2,England,2018,2,#D00027
-Manchester United,676.3,England,2018,,#DA020E
-Stoke City,158.3,England,2018,,#E03A3E
-Bournemouth,159.2,England,2018,,#E62333
-Southampton,212.1,England,2018,,#ED1A3B
-Barcelona,648.3,Spain,2018,,#EDBB00
-Arsenal,487.6,England,2018,,#EF0107
-Milan,191.7,Italy,2018,,#FB090B
-Real Madrid,674.6,Spain,2018,1,#FEBE10
-Lyon,198.3,France,2018,,#3f48cc
-Paris Saint?Germain,486.2,France,2018,,#004170
-Bayern Munich,587.8,Germany,2018,3,#DC052D
-Borussia Dortmund,332.6,Germany,2018,,#FDE100
-Borussia Mönchengladbach,169.3,Germany,2018,,#000000
-Schalke 04,230.2,Germany,2018,,#004D9D
-Benfica,157.6,Portugal,2018,,#FFD400
-Zenit Saint Petersburg,180.4,Russia,2018,,#0097db
-Juventus,394.9,Italy,2019,,#000000
-Tottenham Hotspur,428.3,England,2019,,#001C58
-Leicester City,179.4,England,2019,,#0053A0
-Brighton,157.4,England,2019,,#0055A9
-Napoli,182.8,Italy,2019,,#12A0D7
-Crystal Palace,169,England,2019,,#1B458F
-Newcastle United,201.5,England,2019,,#241F20
-Atlético Madrid,304.4,Spain,2019,,#272E61
-Everton,212.9,England,2019,,#274488
-Chelsea,505.7,England,2019,,#34694
-West Ham United,197.9,England,2019,,#60223B
-Roma,250,Italy,2019,,#8E1F2F
-Manchester City,568.4,England,2019,,#98C5E9
-Internazionale,280.8,Italy,2019,,#A29161
-Liverpool,513.7,England,2019,,#D00027
-Manchester United,666,England,2019,,#DA020E
-Southampton,172,England,2019,,#ED1A3B
-Barcelona,690.4,Spain,2019,,#EDBB00
-Arsenal,439.2,England,2019,,#EF0107
-Milan,207.7,Italy,2019,,#FB090B
-Real Madrid,750.9,Spain,2019,,#FEBE10
-Lyon,164.2,France,2019,,#3f48cc
-Paris Saint?Germain,541.7,France,2019,,#004170
-Bayern Munich,629.2,Germany,2019,,#DC052D
-Borussia Dortmund,317.2,Germany,2019,,#FDE100
-Schalke 04,243.8,Germany,2019,,#004D9D
-Benfica,150.7,Portugal,2019,,#FFD400
-Zenit Saint Petersburg,167.8,Russia,2019,,#0097db
-Sevilla,165.2,Spain,2019,,#cb282b
-Besiktas J.K,165.7,Turkey,2019,,#000000
+Juventus,279.4,Italy,2015,2,#000000
+Tottenham Hotspur,215.8,England,2015,,#001C58
+PSG,474.2,France,2015,,#004170
+Schalke 04,213.9,Germany,2015,,#004D9D
+Hamburger SV,120.3,Germany,2015,,#0A3F86
+Marseille,130.5,France,2015,,#0c98d6
+Napoli,164.8,Italy,2015,,#12A0D7
+Newcastle United,155.1,England,2015,,#241F20
+Atlético Madrid,169.9,Spain,2015,,#272E61
+Everton,144.1,England,2015,,#274488
+Chelsea,387.9,England,2015,,#34694
+West Ham United,137.4,England,2015,,#60223B
+Roma,127.4,Italy,2015,,#8E1F2F
+Aston Villa,133,England,2015,,#95BFE5
+Manchester City,414.4,England,2015,,#98C5E9
+Internazionale,164,Italy,2015,,#A29161
+Galatasaray,161.9,Turkey,2015,,#a90432
+Liverpool,305.9,England,2015,,#D00027
+Manchester United,518,England,2015,,#DA020E
+Bayern Munich,487.5,Germany,2015,3,#DC052D
+Stoke City,117.6,England,2015,,#E03A3E
+Sunderland,124.8,England,2015,,#EB172B
+Southampton,126.9,England,2015,,#ED1A3B
+Barcelona,484.6,Spain,2015,1,#EDBB00
+Arsenal,359.3,England,2015,,#EF0107
+Milan,249.7,Italy,2015,,#FB090B
+Borussia Dortmund,261.5,Germany,2015,,#FDE100
+Real Madrid,549.5,Spain,2015,3,#FEBE10
+Benfica,126,Portugal,2015,,#FFD400
+Swansea City,118,Wales,2015,,#FFFFFF
+Corinthians,113.3,Brazil,2014,,#000000
+Juventus,272.4,Italy,2014,,#000000
+Tottenham Hotspur,172,England,2014,,#001C58
+PSG,398.8,France,2014,,#004170
+Schalke 04,198.2,Germany,2014,,#004D9D
+Hamburger SV,135.4,Germany,2014,,#0A3F86
+Marseille,104.3,France,2014,,#0c98d6
+Napoli,116.4,Italy,2014,,#12A0D7
+Newcastle United,111.9,England,2014,,#241F20
+Atlético Madrid,120,Spain,2014,1,#272E61
+Chelsea,303.4,England,2014,3,#34694
+West Ham United,104.8,England,2014,,#60223B
+Lazio,106.2,Italy,2014,,#84d8f9
+Roma,124.4,Italy,2014,,#8E1F2F
+Manchester City,316.2,England,2014,,#98C5E9
+Internazionale,168.8,Italy,2014,,#A29161
+Galatasaray,157,Turkey,2014,,#a90432
+Liverpool,240.6,England,2014,,#D00027
+Manchester United,423.8,England,2014,,#DA020E
+Bayern Munich,431.2,Germany,2014,3,#DC052D
+VfB Stuttgart,116.5,Germany,2014,,#e32219
+Barcelona,482.6,Spain,2014,,#EDBB00
+Arsenal,284.3,England,2014,,#EF0107
+Milan,263.5,Italy,2014,,#FB090B
+Borussia Dortmund,256.2,Germany,2014,,#FDE100
+Real Madrid,518.9,Spain,2014,1,#FEBE10
+Benfica,109.2,Portugal,2014,,#FFD400
+Valencia,116,Spain,2014,,#FFDF1C
+Fenerbahçe,126.4,Turkey,2014,,#ffed00
+Ajax,107.6,Netherlands,2014,,#FFFFFF
+Corinthians,94.1,Brazil,2013,,#000000
+Juventus,195.4,Italy,2013,,#000000
+Tottenham Hotspur,178.2,England,2013,,#001C58
+PSG,220.5,France,2013,,#004170
+Schalke 04,174.5,Germany,2013,,#004D9D
+Hamburger SV,121.1,Germany,2013,,#0A3F86
+Marseille,135.7,France,2013,,#0c98d6
+Napoli,148.4,Italy,2013,,#12A0D7
+Newcastle United,115.3,England,2013,,#241F20
+Atlético Madrid,107.9,Spain,2013,,#272E61
+Everton,99.5,England,2013,,#274488
+Chelsea,322.6,England,2013,,#34694
+Lyon,131.9,France,2013,,#3f48cc
+Roma,115.9,Italy,2013,,#8E1F2F
+Aston Villa,98.6,England,2013,,#95BFE5
+Manchester City,285.6,England,2013,,#98C5E9
+Internazionale,200.6,Italy,2013,,#A29161
+Galatasaray,129.7,Turkey,2013,,#a90432
+Liverpool,233.2,England,2013,,#D00027
+Manchester United,395.9,England,2013,,#DA020E
+Bayern Munich,368.4,Germany,2013,1,#DC052D
+VfB Stuttgart,103.2,Germany,2013,,#e32219
+Sunderland,96.4,England,2013,,#EB172B
+Barcelona,483,Spain,2013,3,#EDBB00
+Arsenal,290.3,England,2013,,#EF0107
+Milan,256.9,Italy,2013,,#FB090B
+Borussia Dortmund,196.7,Germany,2013,2,#FDE100
+Real Madrid,512.6,Spain,2013,3,#FEBE10
+Benfica,111.1,Portugal,2013,,#FFD400
+Valencia,111.1,Spain,2013,,#FFDF1C
+Ajax,104.1,Netherlands,2013,,#FFFFFF
+Fulham,98,England,2013,,#FFFFFF
+Juventus,153.9,Italy,2012,,#000000
+Tottenham Hotspur,181,England,2012,,#001C58
+Schalke 04,202.4,Germany,2012,,#004D9D
+Hamburger SV,128.8,Germany,2012,,#0A3F86
+Marseille,150.4,France,2012,,#0c98d6
+Napoli,114.9,Italy,2012,,#12A0D7
+Werder Bremen,99.7,Germany,2012,,#1D9053
+Newcastle United,98,England,2012,,#241F20
+Atlético Madrid,99.9,Spain,2012,,#272E61
+Everton,90.8,England,2012,,#274488
+Chelsea,249.8,England,2012,1,#34694
+Lyon,132.8,France,2012,,#3f48cc
+West Ham United,89.1,England,2012,,#60223B
+Roma,143.5,Italy,2012,,#8E1F2F
+Aston Villa,99.3,England,2012,,#95BFE5
+Manchester City,169.6,England,2012,,#98C5E9
+Internazionale,211.4,Italy,2012,,#A29161
+Liverpool,203.3,England,2012,,#D00027
+Manchester United,367,England,2012,,#DA020E
+Bayern Munich,321.4,Germany,2012,2,#DC052D
+VfB Stuttgart,95.5,Germany,2012,,#e32219
+Sunderland,87.9,England,2012,,#EB172B
+Barcelona,450.7,Spain,2012,3,#EDBB00
+Arsenal,251.1,England,2012,,#EF0107
+Milan,235.1,Italy,2012,,#FB090B
+Borussia Dortmund,138.5,Germany,2012,,#FDE100
+Real Madrid,479.5,Spain,2012,3,#FEBE10
+Benfica,102.5,Portugal,2012,,#FFD400
+Valencia,116.8,Spain,2012,,#FFDF1C
+Ajax,97.1,Netherlands,2012,,#FFFFFF
+Juventus,205,Italy,2011,,#000000
+Tottenham Hotspur,146.3,England,2011,,#001C58
+Schalke 04,139.8,Germany,2011,3,#004D9D
+Hamburger SV,146.2,Germany,2011,,#0A3F86
+Marseille,141.1,France,2011,,#0c98d6
+Napoli,95.1,Italy,2011,,#12A0D7
+Werder Bremen,96.5,Germany,2011,,#1D9053
+Atlético Madrid,124.5,Spain,2011,,#272E61
+Everton,96.6,England,2011,,#274488
+Chelsea,255.9,England,2011,,#34694
+Lyon,146.1,France,2011,,#3f48cc
+Bordeaux,102.8,France,2011,,#5F021F
+West Ham United,87.6,England,2011,,#60223B
+Roma,122.7,Italy,2011,,#8E1F2F
+Aston Villa,109.4,England,2011,,#95BFE5
+Manchester City,152.8,England,2011,,#98C5E9
+Internazionale,224.8,Italy,2011,,#A29161
+Sevilla,99.6,Spain,2011,,#cb282b
+Liverpool,225.3,England,2011,,#D00027
+Manchester United,349.8,England,2011,2,#DA020E
+Bayern Munich,323,Germany,2011,,#DC052D
+VfB Stuttgart,114.8,Germany,2011,,#e32219
+Fiorentina,106.4,Italy,2011,,#EC1C23
+Barcelona,398.1,Spain,2011,1,#EDBB00
+Arsenal,274.1,England,2011,,#EF0107
+Milan,235.8,Italy,2011,,#FB090B
+Borussia Dortmund,105.2,Germany,2011,,#FDE100
+Real Madrid,438.6,Spain,2011,3,#FEBE10
+Benfica,98.2,Portugal,2011,,#FFD400
+Valencia,99.3,Spain,2011,,#FFDF1C
+Fulham,94.2,England,2011,,#FFFFFF
+Juventus,203.2,Italy,2010,,#000000
+Tottenham Hotspur,132.7,England,2010,,#001C58
+Schalke 04,124.5,Germany,2010,,#004D9D
+Hamburger SV,146.7,Germany,2010,,#0A3F86
+Marseille,133.2,France,2010,,#0c98d6
+Werder Bremen,114.7,Germany,2010,,#1D9053
+Newcastle United,101,England,2010,,#241F20
+Chelsea,242.3,England,2010,,#34694
+Lyon,139.6,France,2010,3,#3f48cc
+Roma,146.4,Italy,2010,,#8E1F2F
+Manchester City,101.2,England,2010,,#98C5E9
+Internazionale,196.5,Italy,2010,1,#A29161
+Liverpool,237,England,2010,,#D00027
+Manchester United,327,England,2010,,#DA020E
+Bayern Munich,289.5,Germany,2010,2,#DC052D
+Barcelona,365.9,Spain,2010,3,#EDBB00
+Arsenal,263,England,2010,,#EF0107
+Milan,196.5,Italy,2010,,#FB090B
+Borussia Dortmund,103.5,Germany,2010,,#FDE100
+Real Madrid,401.4,Spain,2010,,#FEBE10
+Juventus,167.5,Italy,2009,,#000000
+Tottenham Hotspur,145,England,2009,,#001C58
+Schalke 04,148.4,Germany,2009,,#004D9D
+Hamburger SV,127.9,Germany,2009,,#0A3F86
+Marseille,126.8,France,2009,,#0c98d6
+Newcastle United,125.6,England,2009,,#241F20
+Chelsea,268.9,England,2009,3,#34694
+Lyon,155.7,France,2009,,#3f48cc
+Roma,175.4,Italy,2009,,#8E1F2F
+Manchester City,104,England,2009,,#98C5E9
+Internazionale,172.9,Italy,2009,,#A29161
+Liverpool,210.9,England,2009,,#D00027
+Manchester United,324.8,England,2009,2,#DA020E
+Bayern Munich,295.3,Germany,2009,,#DC052D
+VfB Stuttgart,111.5,Germany,2009,,#e32219
+Barcelona,308.8,Spain,2009,1,#EDBB00
+Arsenal,264,England,2009,3,#EF0107
+Milan,209.5,Italy,2009,,#FB090B
+Real Madrid,365.8,Spain,2009,,#FEBE10
+Fenerbahçe,111.3,Turkey,2009,,#ffed00
+Juventus,145.2,Italy,2008,,#000000
+Tottenham Hotspur,153.1,England,2008,,#001C58
+Schalke 04,114.3,Germany,2008,,#004D9D
+Hamburger SV,120.4,Germany,2008,,#0A3F86
+Marseille,99,France,2008,,#0c98d6
+Celtic,111.8,Scotland,2008,,#17331F
+Werder Bremen,97.3,Germany,2008,,#1D9053
+Newcastle United,129.4,England,2008,,#241F20
+Chelsea,283,England,2008,2,#34694
+Lyon,140.6,France,2008,,#3f48cc
+Roma,157.6,Italy,2008,,#8E1F2F
+Internazionale,195,Italy,2008,,#A29161
+Liverpool,198.9,England,2008,3,#D00027
+Manchester United,315.2,England,2008,1,#DA020E
+Bayern Munich,223.3,Germany,2008,,#DC052D
+Barcelona,290.1,Spain,2008,3,#EDBB00
+Arsenal,263.9,England,2008,,#EF0107
+Milan,227.2,Italy,2008,,#FB090B
+Real Madrid,351,Spain,2008,,#FEBE10
+Valencia,107.6,Spain,2008,,#FFDF1C
+Juventus,251.2,Italy,2007,,#000000
+Tottenham Hotspur,107.2,England,2007,,#001C58
+Schalke 04,122.9,Germany,2007,,#004D9D
+Hamburger SV,101.8,Germany,2007,,#0A3F86
+Rangers,88.5,Scotland,2007,,#1b458f
+Newcastle United,124.3,England,2007,,#241F20
+Chelsea,221,England,2007,3,#34694
+Lyon,127.7,France,2007,,#3f48cc
+West Ham United,86.9,England,2007,,#60223B
+Roma,127,Italy,2007,,#8E1F2F
+Manchester City,89.4,England,2007,,#98C5E9
+Internazionale,206.6,Italy,2007,,#A29161
+Liverpool,176,England,2007,2,#D00027
+Manchester United,242.6,England,2007,3,#DA020E
+Bayern Munich,204.7,Germany,2007,,#DC052D
+Barcelona,259.1,Spain,2007,,#EDBB00
+Arsenal,177.4,England,2007,,#EF0107
+Milan,238.7,Italy,2007,1,#FB090B
+Real Madrid,292.2,Spain,2007,,#FEBE10
+Benfica,85.1,Portugal,2007,,#FFD400
+Juventus,229.4,Italy,2006,,#000000
+Tottenham Hotspur,104.5,England,2006,,#001C58
+Schalke 04,97.4,Germany,2006,,#004D9D
+Celtic,92.7,Scotland,2006,,#17331F
+Newcastle United,128.9,England,2006,,#241F20
+Everton,88.8,England,2006,,#274488
+Chelsea,220.8,England,2006,,#34694
+Lyon,92.9,France,2006,,#3f48cc
+Lazio,83.1,Italy,2006,,#84d8f9
+Roma,131.8,Italy,2006,,#8E1F2F
+Manchester City,90.1,England,2006,,#98C5E9
+Internazionale,177.2,Italy,2006,,#A29161
+Liverpool,181.2,England,2006,,#D00027
+Manchester United,246.4,England,2006,,#DA020E
+Bayern Munich,189.5,Germany,2006,,#DC052D
+Barcelona,207.9,Spain,2006,1,#EDBB00
+Arsenal,171.3,England,2006,2,#EF0107
+Milan,234,Italy,2006,3,#FB090B
+Real Madrid,275.7,Spain,2006,,#FEBE10
+Valencia,84.6,Spain,2006,,#FFDF1C
+Villarreal,,Spain,2006,3,#ffe667
+Juventus,215.3,Italy,2005,,#000000
+Chelsea,217.5,England,2005,3,#34694
+Internazionale,167.1,Italy,2005,,#A29161
+Liverpool,140.2,England,2005,1,#D00027
+Manchester United,259.4,England,2005,,#DA020E
+Bayern Munich,166.4,Germany,2005,,#DC052D
+Barcelona,169.9,Spain,2005,,#EDBB00
+Arsenal,174.1,England,2005,,#EF0107
+PSV,,Netherlands,2005,3,#f00000
+Milan,222.1,Italy,2005,2,#FB090B
+Real Madrid,236.2,Spain,2005,,#FEBE10
+Juventus,218.8,Italy,2004,,#000000
+Porto,,Portugal,2004,1,#0072B6
+Newcastle United,139.3,England,2004,,#241F20
+Chelsea,134.1,England,2004,3,#34694
+Deportivo,,Spain,2004,3,#57175E
+Internazionale,162.5,Italy,2004,,#A29161
+Liverpool,149.3,England,2004,,#D00027
+Monaco,,France,2004,2,#d91920
+Manchester United,251.2,England,2004,,#DA020E
+Bayern Munich,163.9,Germany,2004,,#DC052D
+Arsenal,150.1,England,2004,,#EF0107
+Milan,200.4,Italy,2004,,#FB090B
+Real Madrid,193.7,Spain,2004,,#FEBE10
+Juventus,177.9,Italy,2003,2,#000000
+Chelsea,143.4,England,2003,,#34694
+Roma,136.8,Italy,2003,,#8E1F2F
+Internazionale,,Italy,2003,3,#A29161
+Liverpool,154.6,England,2003,,#D00027
+Manchester United,229.5,England,2003,,#DA020E
+Bayern Munich,176.8,Germany,2003,,#DC052D
+Barcelona,139.8,Spain,2003,,#EDBB00
+Arsenal,141.4,England,2003,,#EF0107
+Milan,159.1,Italy,2003,1,#FB090B
+Real Madrid,152.2,Spain,2003,3,#FEBE10
+Juventus,173.5,Italy,2002,,#000000
+Chelsea,118.4,England,2002,,#34694
+Lazio,125.4,Italy,2002,,#84d8f9
+Roma,123.8,Italy,2002,,#8E1F2F
+Internazionale,112.8,Italy,2002,,#A29161
+Liverpool,137.6,England,2002,,#D00027
+Manchester United,217.2,England,2002,3,#DA020E
+Bayern Munich,173.2,Germany,2002,,#DC052D
+Leverkusen,,England,2002,2,#E32221
+Barcelona,,Spain,2002,3,#EDBB00
+Milan,164.6,Italy,2002,,#FB090B
+Real Madrid,138.2,Spain,2002,1,#FEBE10
+Bayern Munich,,Germany,2000,1,#DC052D
+Real Madrid,,Spain,2000,3,#FEBE10
+Valencia,,Spain,2000,2,#FFDF1C
+Leeds,,England,2000,3,#FFCD00
+Bayern Munich,,Germany,1999,3,#DC052D
+Barcelona,,Spain,1999,3,#EDBB00
+Real Madrid,,Spain,1999,1,#FEBE10
+Valencia,,Spain,1999,2,#FFDF1C
+Juventus,,Italy,1998,3,#000000
+Manchester United,,England,1998,1,#DA020E
+Bayern Munich,,Germany,1998,2,#DC052D
+Dynamo Kyiv,,Ukraine,1998,3,#176fc1
+Juventus,,Italy,1997,2,#000000
+Monaco,,France,1997,3,#d91920
+Borussia Dortmund,,Germany,1997,3,#FDE100
+Real Madrid,,Spain,1997,1,#FEBE10
+Juventus,,Italy,1996,2,#000000
+Manchester United,,England,1996,3,#DA020E
+Borussia Dortmund,,Germany,1996,1,#FDE100
+Ajax,,Netherlands,1996,3,#FFFFFF
+Juventus,,Italy,1995,1,#000000
+Ajax,,Netherlands,1995,2,#FFFFFF
+Panathinaikos,,Greece,1995,3,#00793f
+Nantes,,France,1995,3,#ffdc10
+PSG,,France,1994,3,#004170
+Bayern Munich,,Germany,1994,3,#DC052D
+Milan,,Italy,1994,2,#FB090B
+Ajax,,Netherlands,1994,1,#FFFFFF
+Porto,,Portugal,1993,3,#0072B6
+Monaco,,France,1993,3,#d91920
+Barcelona,,Spain,1993,2,#EDBB00
+Milan,,Italy,1993,1,#FB090B
+Marseille,,France,1992,1,#0c98d6
+Rangers,,Scotland,1992,3,#1b458f
+Milan,,Italy,1992,2,#FB090B
+Goteborg,,Swedish,1992,3,#00a0e4
+Anderlecht,,Belgium,1991,3,#E0AA00
+Barcelona,,Spain,1991,1,#EDBB00
+Sampdoria,,Italy,1991,2,#0079bb
+Crvena zvezda,,Serbia,1991,3,#d90512
+Marseille,,France,1990,2,#0c98d6
+Bayern Munich,,Germany,1990,3,#DC052D
+Crvena zvezda,,Serbia,1990,1,#d90512
+Spartak Moskow,,Russia,1990,3,#e12e48
+Marseille,,France,1989,3,#0c98d6
+Bayern Munich,,Germany,1989,3,#DC052D
+Milan,,Italy,1989,1,#FB090B
+Benfica,,Portugal,1989,2,#FFD400
+Galatasaray,,Turkey,1988,3,#a90432
+Milan,,Italy,1988,1,#FB090B
+Real Madrid,,Spain,1988,3,#FEBE10
+FCSB,,Romania,1988,2,#fef400
+PSV,,Netherlands,1987,1,#f00000
+Real Madrid,,Spain,1987,3,#FEBE10
+Benfica,,Portugal,1987,2,#FFD400
+FCSB,,Romania,1987,3,#fef400
+Porto,,Portugal,1986,1,#0072B6
+Bayern Munich,,Germany,1986,2,#DC052D
+Real Madrid,,Spain,1986,3,#FEBE10
+Dynamo Kyiv,,Ukraine,1986,3,#176fc1
+Anderlecht,,Belgium,1985,3,#E0AA00
+Barcelona,,Spain,1985,2,#EDBB00
+Goteborg,,Swedish,1985,3,#00a0e4
+FCSB,,Romania,1985,1,#fef400
+Juventus,,Italy,1984,1,#000000
+Bordeaux,,France,1984,3,#5F021F
+Liverpool,,England,1984,2,#D00027
+Panathinaikos,,Greece,1984,3,#00793f
+Roma,,Italy,1983,2,#8E1F2F
+Liverpool,,England,1983,1,#D00027
+Dinamo Bucuresti,,Romania,1983,3,#ed1c24
+Dundee United,,Scotland,1983,3,#f29400
+Juventus,,Italy,1982,2,#000000
+Hamburger SV,,Germany,1982,1,#0A3F86
+Real Sociedad,,Spain,1982,3,#0b214e
+Widzew,,Poland,1982,3,#ff0000
+Aston Villa,,England,1981,1,#95BFE5
+CSKA Sofia,,Bulgaria,1981,3,#cc9c00
+Bayern Munich,,Germany,1981,2,#DC052D
+Anderlecht,,Belgium,1981,3,#E0AA00
+Internazionale,,Italy,1980,3,#A29161
+Liverpool,,England,1980,1,#D00027
+Bayern Munich,,Germany,1980,3,#DC052D
+Real Madrid,,Spain,1980,2,#FEBE10
+Hamburger SV,,Germany,1979,2,#0A3F86
+Real Madrid,,Spain,1979,3,#FEBE10
+Ajax,,Netherlands,1979,3,#FFFFFF
+Nottm Forest,,England,1979,1,#e53233
+Austria Wien,,Austria,1978,3,#441678
+Malmo,,Sweden,1978,2,#008ecb
+Nottm Forest,,England,1978,1,#e53233
+Koln,,Germany,1978,3,#ffffff
+Club Brugge,,Belgium,1977,2,#000000
+Juventus,,Italy,1977,3,#000000
+Liverpool,,England,1977,1,#D00027
+Mönchengladbach,,Germany,1977,3,#FFFFFF
+Liverpool,,England,1976,1,#D00027
+Mönchengladbach,,Germany,1976,2,#FFFFFF
+Zurich,,Switzerland,1976,3,#0098c9
+Dynamo Kyiv,,Serbia,1976,3,#176fc1
+Bayern Munich,,Germany,1975,1,#DC052D
+PSV,,Netherlands,1975,3,#f00000
+Real Madrid,,Spain,1975,3,#FEBE10
+St-Étienne,,France,1975,2,#006a32
+Bayern Munich,,Germany,1974,1,#DC052D
+Barcelona,,Spain,1974,3,#EDBB00
+St-Étienne,,France,1974,3,#006a32
+Leeds,,England,1974,2,#FFCD00
+Celtic,,Scotland,1973,3,#17331F
+Atlético Madrid,,Spain,1973,2,#272E61
+Bayern Munich,,Germany,1973,1,#DC052D
+Ujpest,,Hungary,1973,3,#602d91
+Juventus,,Italy,1972,2,#000000
+Real Madrid,,Spain,1972,3,#FEBE10
+Ajax,,Netherlands,1972,1,#FFFFFF
+Derby,,England,1972,3,#FFFFFF
+Celtic,,Scotland,1971,3,#17331F
+Internazionale,,Italy,1971,2,#A29161
+Benfica,,Portugal,1971,3,#FFD400
+Ajax,,Netherlands,1971,1,#FFFFFF
+Atlético Madrid,,Spain,1970,3,#272E61
+Ajax,,Netherlands,1970,1,#FFFFFF
+Panathinaikos,,Greece,1970,2,#00793f
+Crvena zvezda,,Serbia,1970,3,#d90512
+Celtic,,Scotland,1969,2,#17331F
+Legia,,Poland,1969,3,#00a352
+Feyenoord,,Netherlands,1969,1,#e2001a
+Leeds,,England,1969,3,#FFCD00
+Manchester United,,England,1968,3,#DA020E
+Milan,,Italy,1968,1,#FB090B
+Ajax,,Netherlands,1968,2,#FFFFFF
+Spartak Trnnava,,Slovakia,1968,3,#e51e18
+Juventus,,Italy,1967,3,#000000
+Manchester United,,England,1967,1,#DA020E
+Real Madrid,,Spain,1967,3,#FEBE10
+Benfica,,Portugal,1967,2,#FFD400
+Celtic,,Scotland,1966,1,#17331F
+Internazionale,,Italy,1966,2,#A29161
+CSKA Sofia,,Bulgaria,1966,3,#cc9c00
+Dukla,,Czech,1966,3,#dd332f
+Internazionale,,Italy,1965,3,#A29161
+Manchester United,,England,1965,3,#DA020E
+Real Madrid,,Spain,1965,1,#FEBE10
+Partizan,,Serbia,1965,2,#1f211d
+Internazionale,,Italy,1964,1,#A29161
+Liverpool,,England,1964,3,#D00027
+Benfica,,Portugal,1964,2,#FFD400
+Gyor,,Hungary,1964,3,#d6b469
+Internazionale,,Italy,1963,1,#A29161
+Borussia Dortmund,,Germany,1963,3,#FDE100
+Real Madrid,,Spain,1963,2,#FEBE10
+Zurich,,Germany,1963,3,#0098c9
+Milan,,Italy,1962,1,#FB090B
+Milan,,Italy,1962,3,#FB090B
+Benfica,,Portugal,1962,2,#FFD400
+Feyenoord,,Netherlands,1962,3,#e2001a
+Tottenham Hotspur,,England,1961,3,#001C58
+Real Madrid,,Spain,1961,2,#FEBE10
+Benfica,,Portugal,1961,1,#FFD400
+Standard Liege,,Belgium,1961,3,#ff1100
+Rapid Wien,,Austria,1960,3,#005081
+Hamburger SV,,Germany,1960,3,#0A3F86
+Barcelona,,Spain,1960,2,#EDBB00
+Benfica,,Portugal,1960,1,#FFD400
+Rangers,,Scotland,1959,3,#1b458f
+Frankfurt,,Germany,1959,2,#E1000F
+Barcelona,,Spain,1959,3,#EDBB00
+Real Madrid,,Spain,1959,1,#FEBE10
+Atlético Madrid,,Spain,1958,3,#272E61
+Real Madrid,,Spain,1958,1,#FEBE10
+Reims,,France,1958,2,#d2232a
+Young Boys,,Switzerland,1958,3,#f9cc11
+Manchester United,,England,1957,3,#DA020E
+Milan,,Italy,1957,2,#FB090B
+Real Madrid,,Spain,1957,1,#FEBE10
+Vasas,,Hungary,1957,3,#265eb4
+Manchester United,,England,1956,3,#DA020E
+Fiorentina,,Italy,1956,2,#EC1C23
+Real Madrid,,Spain,1956,1,#FEBE10
+Crvena zvezda,,Serbia,1956,3,#d90512
+Milan,,Italy,1955,3,#FB090B
+Real Madrid,,Spain,1955,1,#FEBE10
+Hibernian,,Scotland,1955,3,#00753b
+Reims,,France,1955,2,#d2232a
