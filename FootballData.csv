@@ -1,34 +1,35 @@
 Club,Income(€ million),Country,Year,ChampionsLeaguePosition,ClubHexCode
-Besiktas J.K,165.7,Turkey,2019,,#000000
-Juventus,394.9,Italy,2019,,#000000
-Tottenham Hotspur,428.3,England,2019,,#001C58
-PSG,541.7,France,2019,,#004170
-Schalke 04,243.8,Germany,2019,,#004D9D
-Leicester City,179.4,England,2019,,#0053A0
-Brighton,157.4,England,2019,,#0055A9
-Zenit Saint Petersburg,167.8,Russia,2019,,#0097db
-Napoli,182.8,Italy,2019,,#12A0D7
-Crystal Palace,169,England,2019,,#1B458F
-Newcastle United,201.5,England,2019,,#241F20
-Atlético Madrid,304.4,Spain,2019,,#272E61
-Everton,212.9,England,2019,,#274488
-Chelsea,505.7,England,2019,,#34694
-Lyon,164.2,France,2019,,#3f48cc
-West Ham United,197.9,England,2019,,#60223B
-Roma,250,Italy,2019,,#8E1F2F
-Manchester City,568.4,England,2019,,#98C5E9
-Internazionale,280.8,Italy,2019,,#A29161
-Sevilla,165.2,Spain,2019,,#cb282b
-Liverpool,513.7,England,2019,,#D00027
-Manchester United,666,England,2019,,#DA020E
-Bayern Munich,629.2,Germany,2019,,#DC052D
-Southampton,172,England,2019,,#ED1A3B
-Barcelona,690.4,Spain,2019,,#EDBB00
+Ajax,,Netherlands,2019,3,#FFFFFF
 Arsenal,439.2,England,2019,,#EF0107
-Milan,207.7,Italy,2019,,#FB090B
-Borussia Dortmund,317.2,Germany,2019,,#FDE100
-Real Madrid,750.9,Spain,2019,,#FEBE10
+Atlético Madrid,304.4,Spain,2019,,#272E61
+Barcelona,690.4,Spain,2019,3,#EDBB00
+Bayern Munich,629.2,Germany,2019,,#DC052D
 Benfica,150.7,Portugal,2019,,#FFD400
+Besiktas J.K,165.7,Turkey,2019,,#000000
+Borussia Dortmund,317.2,Germany,2019,,#FDE100
+Brighton,157.4,England,2019,,#0055A9
+Chelsea,505.7,England,2019,,#34694
+Crystal Palace,169,England,2019,,#1B458F
+Everton,212.9,England,2019,,#274488
+Internazionale,280.8,Italy,2019,,#A29161
+Juventus,394.9,Italy,2019,,#000000
+Leicester City,179.4,England,2019,,#0053A0
+Liverpool,513.7,England,2019,1,#D00027
+Lyon,164.2,France,2019,,#3f48cc
+Manchester City,568.4,England,2019,,#98C5E9
+Manchester United,666,England,2019,,#DA020E
+Milan,207.7,Italy,2019,,#FB090B
+Napoli,182.8,Italy,2019,,#12A0D7
+Newcastle United,201.5,England,2019,,#241F20
+PSG,541.7,France,2019,,#004170
+Real Madrid,750.9,Spain,2019,,#FEBE10
+Roma,250,Italy,2019,,#8E1F2F
+Schalke 04,243.8,Germany,2019,,#004D9D
+Sevilla,165.2,Spain,2019,,#cb282b
+Southampton,172,England,2019,,#ED1A3B
+Tottenham Hotspur,428.3,England,2019,2,#001C58
+West Ham United,197.9,England,2019,,#60223B
+Zenit Saint Petersburg,167.8,Russia,2019,,#0097db
 Borussia Mönchengladbach,169.3,Germany,2018,,#000000
 Juventus,405.7,Italy,2018,,#000000
 Tottenham Hotspur,355.6,England,2018,,#001C58
@@ -456,7 +457,7 @@ Milan,,Italy,1993,1,#FB090B
 Marseille,,France,1992,1,#0c98d6
 Rangers,,Scotland,1992,3,#1b458f
 Milan,,Italy,1992,2,#FB090B
-Goteborg,,Swedish,1992,3,#00a0e4
+Goteborg,,Sweden,1992,3,#00a0e4
 Anderlecht,,Belgium,1991,3,#E0AA00
 Barcelona,,Spain,1991,1,#EDBB00
 Sampdoria,,Italy,1991,2,#0079bb
@@ -483,7 +484,7 @@ Real Madrid,,Spain,1986,3,#FEBE10
 Dynamo Kyiv,,Ukraine,1986,3,#176fc1
 Anderlecht,,Belgium,1985,3,#E0AA00
 Barcelona,,Spain,1985,2,#EDBB00
-Goteborg,,Swedish,1985,3,#00a0e4
+Goteborg,,Sweden,1985,3,#00a0e4
 FCSB,,Romania,1985,1,#fef400
 Juventus,,Italy,1984,1,#000000
 Bordeaux,,France,1984,3,#5F021F
@@ -516,9 +517,9 @@ Koln,,Germany,1978,3,#ffffff
 Club Brugge,,Belgium,1977,2,#000000
 Juventus,,Italy,1977,3,#000000
 Liverpool,,England,1977,1,#D00027
-Mönchengladbach,,Germany,1977,3,#FFFFFF
+Borussia Mönchengladbach,,Germany,1977,3,#FFFFFF
 Liverpool,,England,1976,1,#D00027
-Mönchengladbach,,Germany,1976,2,#FFFFFF
+Borussia Mönchengladbach,,Germany,1976,2,#FFFFFF
 Zurich,,Switzerland,1976,3,#0098c9
 Dynamo Kyiv,,Serbia,1976,3,#176fc1
 Bayern Munich,,Germany,1975,1,#DC052D
